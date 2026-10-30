@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/marktim2011-debug/marktim2011-debug/main/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif
 # 💫 About Me:
 Backend developer, Linux & OPSEC enthusiast.<br>Focus<br> Specializing in backend development (Python, Go, C/C++) and Telegram Mini Apps.<br>Current research are
 
